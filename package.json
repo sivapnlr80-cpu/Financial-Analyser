@@ -1,0 +1,12 @@
+{
+  "name": "financial-document-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo 'No start script'",
+    "build": "mkdir build && copy index.html build\\ && copy app.js build\\"
+  },
+  "author": "",
+  "license": "ISC"
+}
